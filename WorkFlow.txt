@@ -4,3 +4,13 @@ I will articulate my thought process in this file for the project.
 2. H3 tag - "Add the number of tasks you have throughout the day."
 Add a date counter to mention the date, which will tell the user which day it is.
 
+Main part :- Add a counter which will show the numbers which will have numbers with them and two buttons with option to increase or decrease.
+-- Another button for submission.
+
+Redirect to the next page which will have a number of text field equal to the number submitted before.
+This page will also have an option which will have 3 options to determine the importance of the task.
+It will be categorized(tags) into 3 types on the basis of their importance:
+1. Less important (Yellow)
+2. Important (Green)
+3. Most Important (Red)
+This page will also have a submit button.
