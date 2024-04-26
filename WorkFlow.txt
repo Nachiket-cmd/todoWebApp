@@ -1,1 +1,6 @@
 I will articulate my thought process in this file for the project.
+
+1.H1 tag will say, "Your all in one Task manager".
+2. H3 tag - "Add the number of tasks you have throughout the day."
+Add a date counter to mention the date, which will tell the user which day it is.
+
