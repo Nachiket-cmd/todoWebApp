@@ -14,3 +14,8 @@ It will be categorized(tags) into 3 types on the basis of their importance:
 2. Important (Green)
 3. Most Important (Red)
 This page will also have a submit button.
+
+
+Last Page: 
+- The Last page will have all the items which were added as tasks on the list. 
+- On top of that, there will be 2 checkboxes which will have the options, complete and not complete.
