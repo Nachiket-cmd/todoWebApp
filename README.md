@@ -1,4 +1,4 @@
-##Todo WebApp##
+**Todo WebApp**
 This is a very basic todoWebApp which has been made for the purpose of practicing vanilla javascript. It does have a couple of functionalities.
 1. You can add and drop your tasks if you want to make changes to the list.
 2. You can drag you tasks in the list and reorder them according to your needs.
