@@ -6,6 +6,8 @@ body {
   border: 3px solid rgba(57, 129, 169, 1);
   border-radius: 10px;
   width: 100%;
+  margin: 50% 50%;
+  background-color:  rgb(211, 211, 211);
 }
 
 #todos > h1 {
@@ -24,6 +26,7 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  
 }
 
 .addTodo {
@@ -31,7 +34,10 @@ body {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
+  font-style: italic;
 }
+
+
 
 .addTodo > input[type=text] {
   flex: 1 1 70%;
